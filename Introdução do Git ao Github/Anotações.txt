@@ -1,0 +1,1 @@
+o git bash é um terminal estendido que é utilizado pelo GitHub
